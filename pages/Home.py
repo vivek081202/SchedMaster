@@ -41,7 +41,7 @@ colored_header(label="Key Features", description="Essential modules of SchedMast
 col1, spacer, col2, spacer2, col3 = st.columns([1, 0.5, 1, 0.5, 1]) 
 
 with col1:
-    st.image("../images/time-management.png", width=80)
+    st.image("images/time-management.png", width=80)
     st.markdown("**CPU Scheduling**")
     st.write("CPU Scheduling using Greedy Algorithms & ML Predictions : Implements Shortest Job Next (SJN) and Priority Scheduling using a Greedy strategy, where the process with the least execution time or highest priority is selected first.")
     st.markdown("<br>", unsafe_allow_html=True)
