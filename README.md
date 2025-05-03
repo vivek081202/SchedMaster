@@ -15,7 +15,6 @@ The uniqueness of SchedMaster lies in its hybrid approach — combining classica
 ### 1. CPU Scheduling Module
 - **Algorithms Implemented**:
   - First Come First Serve (FCFS)
-  - Shortest Job First (SJF) (Premptive)
   - Priority Scheduling (Premptive)
   - Round Robin (RR)
   - Shortest Remaining Time First (SRTF)
