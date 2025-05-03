@@ -216,4 +216,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit for the amazing web application framework
 - Scikit-learn for machine learning capabilities
 - Plotly for interactive visualizations
-- All contributors who have helped shape this project 
+- All contributors who have helped shape this project
+
+### Designed and Developed by:
+> **Vivek Kumar Singh**
+> [LinkedIn](https://www.linkedin.com/in/vivek-singh-858941201/)
