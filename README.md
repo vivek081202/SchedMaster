@@ -8,11 +8,6 @@ SchedMaster is an intelligent simulation and optimization tool designed to overc
 
 The uniqueness of SchedMaster lies in its hybrid approach — combining classical scheduling algorithms with optimization techniques like Greedy Algorithms, Dynamic Programming, and Backtracking. Additionally, it leverages simple ML models to predict process behavior, detect anomalies in resource usage, and recommend the most suitable scheduling strategy for given conditions. This project aims to not only simulate existing scheduling methods but also empower users to experiment, analyze time & space complexities, and explore adaptive scheduling solutions that reflect real-world scenarios more effectively.
 
-
-## 🌐 Live Demo
-
-Try out SchedMaster online: [Live Demo](https://your-schedmaster-url.com)
-
 ## 🚀 Features
 
 ### 1. CPU Scheduling Module
