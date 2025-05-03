@@ -2,7 +2,12 @@
 
 > **Intelligent Scheduling & Optimization Simulation tool using Machine Intelligence**
 
-SchedMaster is an advanced simulation tool designed to optimize CPU scheduling, disk scheduling, and resource allocation by applying cutting-edge Design and Analysis of Algorithms (DAA) techniques. This project leverages powerful methods such as Dynamic Programming (DP), Greedy Algorithms, and Backtracking to solve resource scheduling challenges efficiently.
+In modern operating systems, efficient resource management and process scheduling play a crucial role in maintaining system performance, responsiveness, and stability. However, traditional scheduling techniques often rely on static algorithms that fail to adapt dynamically to varying workloads, resource availability, or process behavior.
+
+SchedMaster is an intelligent simulation and optimization tool designed to overcome these limitations by integrating the principles of Design and Analysis of Algorithms (DAA) and basic Machine Learning (ML) techniques. It provides an interactive environment where users can visualize, analyze, and optimize CPU scheduling, disk scheduling, and resource allocation strategies.
+
+The uniqueness of SchedMaster lies in its hybrid approach — combining classical scheduling algorithms with optimization techniques like Greedy Algorithms, Dynamic Programming, and Backtracking. Additionally, it leverages simple ML models to predict process behavior, detect anomalies in resource usage, and recommend the most suitable scheduling strategy for given conditions. This project aims to not only simulate existing scheduling methods but also empower users to experiment, analyze time & space complexities, and explore adaptive scheduling solutions that reflect real-world scenarios more effectively.
+
 
 ## 🌐 Live Demo
 
