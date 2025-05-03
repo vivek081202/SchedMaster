@@ -45,22 +45,22 @@ with col1:
     st.markdown("**CPU Scheduling**")
     st.write("CPU Scheduling using Greedy Algorithms & ML Predictions : Implements Shortest Job Next (SJN) and Priority Scheduling using a Greedy strategy, where the process with the least execution time or highest priority is selected first.")
     st.markdown("<br>", unsafe_allow_html=True)
-    st.image("../images/detection.png", width=80)
+    st.image("images/detection.png", width=80)
     st.markdown("**Anomaly detection**")
     st.write("Anomaly Detection using Divide & Conquer, Greedy Strategies & ML Models : Uses Divide & Conquer to segment large resource usage data and detect anomalies efficiently.")
     
 with col2:
-    st.image("../images/schedule.png", width=80)
+    st.image("images/schedule.png", width=80)
     st.markdown("**Disk Scheduling**")
     st.write("Disk Scheduling Optimization using Dynamic Programming & LSTM Models : Uses Memorization to store previously computed seek times, preventing redundant calculations.")
     st.markdown("<br>", unsafe_allow_html=True)
     
-    st.image("../images/comparison.png", width=80)
+    st.image("images/comparison.png", width=80)
     st.markdown("**Comparative Analysis**")
     st.write("Comparative Analysis of Scheduling Algorithms using ML : Uses Supervised Learning & DP to analyze different CPU and disk scheduling algorithms.")
 
 with col3:
-    st.image("../images/resource-allocation.png", width=80)
+    st.image("images/resource-allocation.png", width=80)
     st.markdown("**Process synchronization and resource allocation**")
     st.write("Process Synchronization & Resource Allocation using Backtracking & RL : Implements Banker's Algorithm for deadlock avoidance, using backtracking to explore safe resource allocations.")
    
