@@ -42,11 +42,9 @@ The uniqueness of SchedMaster lies in its hybrid approach — combining classica
  
   ![image](https://github.com/user-attachments/assets/5e86c592-6e33-4925-902a-650a9f8b8d58)
 
-### 3. Process Synchronization Module
+### 3. Resource Allocation Module
 - **Problems Solved**:
-  - Producer-Consumer Problem
-  - Reader-Writer Problem
-  - Dining Philosophers Problem
+  - Bankers Algorithm (System Safe State and Deadlock Avoidance)
 - **ML Techniques**:
   - Resource usage prediction
   - Deadlock prevention using pattern recognition
