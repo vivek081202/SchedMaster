@@ -2,6 +2,8 @@
 
 > **Intelligent Scheduling & Optimization Simulation tool using Machine Intelligence**
 
+![image](https://github.com/user-attachments/assets/4f8acabf-6c87-41ba-b700-abc5831804fc)
+
 In modern operating systems, efficient resource management and process scheduling play a crucial role in maintaining system performance, responsiveness, and stability. However, traditional scheduling techniques often rely on static algorithms that fail to adapt dynamically to varying workloads, resource availability, or process behavior.
 
 SchedMaster is an intelligent simulation and optimization tool designed to overcome these limitations by integrating the principles of Design and Analysis of Algorithms (DAA) and basic Machine Learning (ML) techniques. It provides an interactive environment where users can visualize, analyze, and optimize CPU scheduling, disk scheduling, and resource allocation strategies.
@@ -22,6 +24,9 @@ The uniqueness of SchedMaster lies in its hybrid approach — combining classica
   - Greedy algorithm optimization
   - Performance pattern analysis using clustering
   - Linear Regression
+ 
+  ![image](https://github.com/user-attachments/assets/123295d8-2cec-475d-888f-96f3009ae46a)
+
 
 ### 2. Disk Scheduling Module
 - **Algorithms Implemented**:
@@ -35,6 +40,8 @@ The uniqueness of SchedMaster lies in its hybrid approach — combining classica
   - Pattern recognition for disk access prediction
   - Dynamic programming for optimal path finding
   - Time series analysis for access pattern prediction
+ 
+  ![image](https://github.com/user-attachments/assets/5e86c592-6e33-4925-902a-650a9f8b8d58)
 
 ### 3. Process Synchronization Module
 - **Problems Solved**:
@@ -45,6 +52,9 @@ The uniqueness of SchedMaster lies in its hybrid approach — combining classica
   - Resource usage prediction
   - Deadlock prevention using pattern recognition
   - Performance optimization through learning
+ 
+  ![image](https://github.com/user-attachments/assets/ad2dad77-c564-41d2-a792-8d6ca75b9b87)
+
 
 ### 4. Anomaly Detection Module
 - **Features**:
@@ -55,6 +65,9 @@ The uniqueness of SchedMaster lies in its hybrid approach — combining classica
   - Unsupervised learning for anomaly detection (Isolation Forest)
   - Time series analysis
   - Pattern recognition in resource usage
+ 
+  ![image](https://github.com/user-attachments/assets/9df53536-35c2-452a-8055-9a56aa12c4d3)
+
 
 ### 5. Comparative Analysis Module
 - **Features**:
@@ -65,6 +78,10 @@ The uniqueness of SchedMaster lies in its hybrid approach — combining classica
   - Performance prediction models
   - Algorithm selection optimization
   - Pattern recognition in performance metrics
+ 
+  ![image](https://github.com/user-attachments/assets/f5e2c56d-31a2-4119-8c38-8c190a66a378)
+  <br>
+  ![image](https://github.com/user-attachments/assets/62b1d57b-3fae-409a-be13-036c30ab131b)
 
 ## 🛠️ Installation
 
