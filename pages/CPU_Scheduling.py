@@ -70,8 +70,8 @@ def round_robin_scheduling(processes, time_quantum):
         for i in range(n):
                     if arrival_time[i] <= current_time and remaining_time[i] > 0 and i not in queue:
                         queue.append(i)
-                else:
-                break
+                    else:
+                        break
         
         if not queue:
             break
